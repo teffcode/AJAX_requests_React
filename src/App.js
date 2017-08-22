@@ -29,7 +29,7 @@ class App extends Component {
 
   render() {
     return (
-      <div style={{ padding:'50px' }}>
+      <div style={{ padding:'100px' }}>
         <h1 style={{ marginBottom:'30px' }}>Names</h1>
         <Table
           columns={columns} 
